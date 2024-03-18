@@ -55,6 +55,7 @@ X_test_scaled = scaler.transform(X_test)
 print("Data before training:")
 print("X_train_scaled:", X_train_scaled)
 print("y_train:", y_train)
+print("y_train:", y_train)
 
 # Train logistic regression model
 print("\nTraining logistic regression model...")
